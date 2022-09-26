@@ -1,1 +1,1 @@
-# news-app
+# news-JS
